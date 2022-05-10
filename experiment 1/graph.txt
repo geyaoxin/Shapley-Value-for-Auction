@@ -1,0 +1,16 @@
+participantsInfo = {\
+    'S':([0],['A','B']),\
+    'A':([1],['S','C', 'D']),\
+    'B':([2],['S','E']),\
+    'C':([3],['A']),\
+    'D':([5],['A']),\
+    'E':([4],['B'])}
+participantsName = list(participantsInfo.keys())
+
+reported_participantsInfo={\
+    'S':([0],['A','B']),\
+    'A':([1],['S','C','D']),\
+    'B':([2],['S','E']),\
+    'C':([3],['A']),\
+    'D':([5],['A']),\
+    'E':([4],['B'])}
